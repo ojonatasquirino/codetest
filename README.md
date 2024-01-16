@@ -37,7 +37,7 @@
 
 # objetivos <a name="id01"></a>
 
-Ao estudar lógica de programação com JavaScript, os seguintes objetivos podem ser definidos:
+Ao estudar lógica de programação com JavaScript, pretendo:
 
 ### compreender os fundamentos lógicos:
 
