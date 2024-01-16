@@ -1,4 +1,4 @@
-<h1 align="center"> 7 Days Of Code • Lógica </h1>
+<h1 align="center"> 7DaysOfCode • Lógica </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
@@ -15,6 +15,14 @@
 
 </p>
 
+<div align="center"> 
+  
+#### <a href ='/1Day/script.js'> operações booleanas  </a> • <a href ='/2Day/script.js'> variáveis </a>  • <a href ='/3Day/script.js'> 3</a> • <a href ='/4Day/script.js'> 4</a> • <a href ='/5Day/script.js'> 5  </a> • <a href ='/6Day/script.js'> 6 </a>  • <a href ='/7Day/script.js'> 7 </a>
+
+
+
+  </div>
+  
 # sumário 
 
 - [objetivos](#id01)
