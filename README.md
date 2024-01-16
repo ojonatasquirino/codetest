@@ -43,6 +43,7 @@ Ao estudar lógica de programação com JavaScript, pretendo:
 
 - Entender os princípios fundamentais da lógica de programação, incluindo controle de fluxo, estruturas de decisão e repetição.
 - Desenvolver habilidades para criar algoritmos eficientes e soluções lógicas para problemas de programação.
+- Tópicos do front-end.
 
 ### dominar os conceitos básicos de JavaScript:
 
@@ -56,7 +57,7 @@ Ao estudar lógica de programação com JavaScript, pretendo:
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
+Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript e o ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
 
 
 # tecnologias de estudo <a name="id04"></a>
