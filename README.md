@@ -1,4 +1,4 @@
-<h1 align="center"> daysofcode • Lógica </h1>
+<h1 align="center"> daysofcode • lógica </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
