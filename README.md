@@ -1,23 +1,23 @@
-<h1 align="center"> daysofcode • Lógica </h1>
+<h1 align="center"> daysofcode </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/daysofcode"
   />
   <image
-  src="https://img.shields.io/github/languages/top/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/daysofcode"
   />
   <image
-  src="https://img.shields.io/github/last-commit/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/daysofcode"
   />
 
 </p>
 
 <div align="center"> 
   
-#### <a href ='/1Day/script.js'> operações booleanas  </a> • <a href ='/2Day/script.js'> variáveis </a>  • <a href ='/3Day/script.js'> 3</a> • <a href ='/4Day/script.js'> 4</a> • <a href ='/5Day/script.js'> 5  </a> • <a href ='/6Day/script.js'> 6 </a>  • <a href ='/7Day/script.js'> 7 </a>
+### <a href ='logica'> desafios de lógica </a>
 
 
 
@@ -43,6 +43,7 @@ Ao estudar lógica de programação com JavaScript, pretendo:
 
 - Entender os princípios fundamentais da lógica de programação, incluindo controle de fluxo, estruturas de decisão e repetição.
 - Desenvolver habilidades para criar algoritmos eficientes e soluções lógicas para problemas de programação.
+- Tópicos do front-end.
 
 ### dominar os conceitos básicos de JavaScript:
 
@@ -50,13 +51,13 @@ Ao estudar lógica de programação com JavaScript, pretendo:
 
 ### praticar a resolução de problemas:
 
-- Aplicar os conceitos de lógica de programação para resolver problemas do mundo real.
+- Aplicar os conceitos front para resolver problemas do mundo real.
 - Desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática.
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
+Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript e o ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
 
 
 # tecnologias de estudo <a name="id04"></a>
@@ -92,7 +93,7 @@ Criei este repositório para depositar os desafios que fiz dos <a href='https://
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/7DaysOfCode.git
+git clone https://github.com/ojonatasquirino/daysofcode.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
