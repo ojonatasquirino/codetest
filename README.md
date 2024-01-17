@@ -4,13 +4,13 @@
 
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/daysofcode"
   />
   <image
-  src="https://img.shields.io/github/languages/top/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/daysofcode"
   />
   <image
-  src="https://img.shields.io/github/last-commit/ojonatasquirino/7DaysOfCode"
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/daysofcode"
   />
 
 </p>
@@ -51,7 +51,7 @@ Ao estudar lógica de programação com JavaScript, pretendo:
 
 ### praticar a resolução de problemas:
 
-- Aplicar os conceitos de lógica de programação para resolver problemas do mundo real.
+- Aplicar os conceitos front para resolver problemas do mundo real.
 - Desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática.
 
 
@@ -93,7 +93,7 @@ Criei este repositório para depositar os desafios que fiz dos <a href='https://
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/7DaysOfCode.git
+git clone https://github.com/ojonatasquirino/daysofcode.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
