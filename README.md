@@ -1,4 +1,4 @@
-<h1 align="center"> daysofcode </h1>
+<h1 align="center"> codeTest </h1>
 
 [comment]: <> (Adicione o seu usuário  e o nome do repositório)
 
@@ -17,7 +17,7 @@
 
 <div align="center"> 
   
-### <a href ='logica'> desafios de lógica </a>
+### <a href ='logica'> testes de lógica </a>
 
 
 
@@ -37,27 +37,12 @@
 
 # objetivos <a name="id01"></a>
 
-Ao estudar lógica de programação com JavaScript, pretendo:
-
-### compreender os fundamentos lógicos:
-
-- Entender os princípios fundamentais da lógica de programação, incluindo controle de fluxo, estruturas de decisão e repetição.
-- Desenvolver habilidades para criar algoritmos eficientes e soluções lógicas para problemas de programação.
-- Tópicos do front-end.
-
-### dominar os conceitos básicos de JavaScript:
-
-- Adquirir proficiência na sintaxe básica de JavaScript, compreendendo variáveis, tipos de dados, operadores e estruturas de controle de fluxo específicas da linguagem.
-
-### praticar a resolução de problemas:
-
-- Aplicar os conceitos front para resolver problemas do mundo real.
-- Desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática.
+Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática e eficiente.
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript e o ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
+Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos **.md** para explicação dos códigos com a minha resolução. 
 
 
 # tecnologias de estudo <a name="id04"></a>
@@ -65,7 +50,7 @@ Criei este repositório para depositar os desafios que fiz dos <a href='https://
 <div  align='center'> 
 
 
-![JAVASCRIPT](https://img.shields.io/badge/lógica_•_js-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JAVASCRIPT](https://img.shields.io/badge/ambiente_javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
  
 [comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk)
 
@@ -75,7 +60,9 @@ Criei este repositório para depositar os desafios que fiz dos <a href='https://
 
 <div  align='center'> 
 
-![curso](https://img.shields.io/badge/7DaysOfcode_•_alura-0D1117?style=for-the-badge&logo=Databricks&logoColor=blue)
+[![curso](https://img.shields.io/badge/DaysOfcode_•_alura-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://alura-7dayscode.vercel.app/logica-programacao.html)
+
+[![curso](https://img.shields.io/badge/testes_técnicos_•_plataforma_codante-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://codante.io/testes-tecnicos)
 </div>
 
 # ambiente de codificação <a name="id05"></a>
@@ -93,7 +80,7 @@ Criei este repositório para depositar os desafios que fiz dos <a href='https://
 Clone este repositório usando o comando:
 
 ```bash
-git clone https://github.com/ojonatasquirino/daysofcode.git
+git clone https://github.com/ojonatasquirino/codetest.git
 ```
 
 Instale na pasta do projeto as dependências com uso do npm ou yarn:
@@ -135,7 +122,7 @@ yarn start
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino)
 
-[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=orange)](https://bit.ly/linkquirino)
+[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
 [![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
