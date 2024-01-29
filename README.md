@@ -37,27 +37,12 @@
 
 # objetivos <a name="id01"></a>
 
-Ao estudar lógica de programação com JavaScript, pretendo:
-
-### compreender os fundamentos lógicos:
-
-- Entender os princípios fundamentais da lógica de programação, incluindo controle de fluxo, estruturas de decisão e repetição.
-- Desenvolver habilidades para criar algoritmos eficientes e soluções lógicas para problemas de programação.
-- Tópicos do front-end.
-
-### dominar os conceitos básicos de JavaScript:
-
-- Adquirir proficiência na sintaxe básica de JavaScript, compreendendo variáveis, tipos de dados, operadores e estruturas de controle de fluxo específicas da linguagem.
-
-### praticar a resolução de problemas:
-
-- Aplicar os conceitos front para resolver problemas do mundo real.
-- Desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática.
+Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática e eficiente.
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios que fiz dos <a href='https://7daysofcode.io/matricula/logica-programacao'>7DaysOFCode</a> para testar meus estudos em lógica de programação com JavaScript e o ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos .md para explicação dos códgios e com a minha resolução. 
+Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos **.md** para explicação dos códigos com a minha resolução. 
 
 
 # tecnologias de estudo <a name="id04"></a>
