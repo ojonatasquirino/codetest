@@ -4,13 +4,13 @@
 
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/codetest"
   />
   <image
-  src="https://img.shields.io/github/languages/top/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/codetest"
   />
   <image
-  src="https://img.shields.io/github/last-commit/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/codetest"
   />
 
 </p>
