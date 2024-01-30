@@ -14,14 +14,6 @@
   />
 
 </p>
-
-<div align="center"> 
-  
-### <a href ='logica'> testes de lógica </a>
-
-
-
-  </div>
   
 # sumário 
 
