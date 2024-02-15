@@ -42,7 +42,7 @@ Criei este repositório para depositar os desafios e testes técnicos que fiz do
 <div  align='center'> 
 
 
-![JAVASCRIPT](https://img.shields.io/badge/ambiente_javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JAVASCRIPT](https://img.shields.io/badge/ecossistema_javascript_•_frontend-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
  
 [comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk)
 
