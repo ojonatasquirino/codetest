@@ -34,7 +34,7 @@ Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a h
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos **.md** para explicação dos códigos com a minha resolução. 
+Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos de cada teste/desafio com arquivos **.md** para explicação dos códigos até resoluções complexas.
 
 
 # tecnologias de estudo <a name="id04"></a>
