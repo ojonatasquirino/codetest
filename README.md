@@ -29,12 +29,12 @@
 
 # objetivos <a name="id01"></a>
 
-Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática e eficiente.
+Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira didática, sistemática e eficiente.
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos de cada teste/desafio com arquivos **.md** para explicação dos códigos até resoluções complexas.
+Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange descrições e conceitos básicos nos arquivos <code>.md</code> para apresentação dos requisitos dos desafios/testes com explicação dos códigos e resoluções.
 
 
 # tecnologias de estudo <a name="id04"></a>
