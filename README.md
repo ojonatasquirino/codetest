@@ -4,13 +4,13 @@
 
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/languages/count/ojonatasquirino/codetest"
   />
   <image
-  src="https://img.shields.io/github/languages/top/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/languages/top/ojonatasquirino/codetest"
   />
   <image
-  src="https://img.shields.io/github/last-commit/ojonatasquirino/daysofcode"
+  src="https://img.shields.io/github/last-commit/ojonatasquirino/codetest"
   />
 
 </p>
@@ -29,12 +29,12 @@
 
 # objetivos <a name="id01"></a>
 
-Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira sistemática e eficiente.
+Resolver diversos testes técnicos e desafios em JavaScript para desenvolver a habilidade de decompor problemas complexos em partes menores e abordá-los de maneira didática, sistemática e eficiente.
 
 
 # descrição detalhada <a name="id01.01"></a>
 
-Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange desde conceitos básicos e possui arquivos **.md** para explicação dos códigos com a minha resolução. 
+Criei este repositório para depositar os desafios e testes técnicos que fiz dos para testar meus estudos em JavaScript e uso das ferramentas no ambiente front-end. Organizado de maneira didática, o repositório abrange descrições e conceitos básicos nos arquivos <code>.md</code> para apresentação dos requisitos dos desafios/testes com explicação dos códigos e resoluções.
 
 
 # tecnologias de estudo <a name="id04"></a>
@@ -42,7 +42,7 @@ Criei este repositório para depositar os desafios e testes técnicos que fiz do
 <div  align='center'> 
 
 
-![JAVASCRIPT](https://img.shields.io/badge/ambiente_javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![JAVASCRIPT](https://img.shields.io/badge/ecossistema_javascript_•_frontend-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
  
 [comment]: <> (link para adicionar badges: https://dev.to/envoy_/150-badges-for-github-pnk)
 
