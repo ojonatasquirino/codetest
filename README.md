@@ -75,8 +75,6 @@ Clone este repositório usando o comando:
 git clone https://github.com/ojonatasquirino/codetest.git
 ```
 
-Instale na pasta do projeto as dependências com uso do npm ou yarn:
-
 [comment]: <> (Adicione o link da implatação, se houver)
 
 # autoria <a name="id07"></a>
